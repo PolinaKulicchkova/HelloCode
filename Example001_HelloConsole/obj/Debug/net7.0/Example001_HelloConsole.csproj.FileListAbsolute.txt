@@ -1,0 +1,15 @@
+/Users/polina/Desktop/C#/Example001_HelloConsole/bin/Debug/net7.0/Example001_HelloConsole
+/Users/polina/Desktop/C#/Example001_HelloConsole/bin/Debug/net7.0/Example001_HelloConsole.deps.json
+/Users/polina/Desktop/C#/Example001_HelloConsole/bin/Debug/net7.0/Example001_HelloConsole.runtimeconfig.json
+/Users/polina/Desktop/C#/Example001_HelloConsole/bin/Debug/net7.0/Example001_HelloConsole.dll
+/Users/polina/Desktop/C#/Example001_HelloConsole/bin/Debug/net7.0/Example001_HelloConsole.pdb
+/Users/polina/Desktop/C#/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.csproj.AssemblyReference.cache
+/Users/polina/Desktop/C#/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/polina/Desktop/C#/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.AssemblyInfoInputs.cache
+/Users/polina/Desktop/C#/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.AssemblyInfo.cs
+/Users/polina/Desktop/C#/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/polina/Desktop/C#/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.dll
+/Users/polina/Desktop/C#/Example001_HelloConsole/obj/Debug/net7.0/refint/Example001_HelloConsole.dll
+/Users/polina/Desktop/C#/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.pdb
+/Users/polina/Desktop/C#/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.genruntimeconfig.cache
+/Users/polina/Desktop/C#/Example001_HelloConsole/obj/Debug/net7.0/ref/Example001_HelloConsole.dll
